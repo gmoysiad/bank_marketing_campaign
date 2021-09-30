@@ -3,6 +3,8 @@
 This repository contains code and associated files for the marketing campaign for targeted marketing regarding the
 customers of a bank.
 
+This project was done with the help of [Mihalis Galanakis](https://github.com/mihalis2412) and [Aggelos Konioris](https://github.com/AGGELOS-KONIORIS)
+
 ## Project Overview
 
 This project will be broken down into separate weeks showcasing each step of progression:
