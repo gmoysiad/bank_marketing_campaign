@@ -45,5 +45,6 @@ This project will be broken down into separate weeks showcasing each step of pro
 * Model selection through different categories
 * Compare models through different metrics
 
-**Week 13: Project Report and Code**
-* Final project submission
+**Week 13: [Project Report and Code](https://github.com/gmoysiad/bank_marketing_campaign/tree/main/Week%2013%20Deliverables)**
+* PowerPoint presentation with final model recommendation
+* Jupyter notebook with final model recommendation
